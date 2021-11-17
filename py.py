@@ -20,8 +20,11 @@ plt.plot(a)
 
 # feature 1
 
+<<<<<<< HEAD
 c = 0
 
 # feature 2
 
 d = 0
+=======
+>>>>>>> c31f0910d73556854e6137621e57112f7f826f1a
