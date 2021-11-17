@@ -21,3 +21,7 @@ plt.plot(a)
 # feature 1
 
 c = 0
+
+# feature 2
+
+d = 0
