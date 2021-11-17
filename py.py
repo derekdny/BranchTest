@@ -14,3 +14,6 @@ a = np.arange(1, 50, 0.1)
 
 plt.plot(a)
 
+# new feature
+ 
+ b = 0
