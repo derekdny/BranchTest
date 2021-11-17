@@ -17,3 +17,7 @@ plt.plot(a)
 # new feature
  
  b = 0
+
+# feature 1
+
+c = 0
